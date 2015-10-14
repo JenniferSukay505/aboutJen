@@ -13,7 +13,7 @@
 	<body>
 	<header class="bgimage">
 		<div class="container">
-			<a href="services.php" class="btn btn-info" role="button">Services</a>
+			<a href="computerTricks.php" class="btn btn-info" role="button">Tricks</a>
 			<a href="registration.php" class="btn btn-info" role="button">Registration</a>
 			</div>
 	</header>

@@ -1,0 +1,60 @@
+body {
+	background-color: black;
+}
+a {
+	color:deepskyblue;
+}
+p {
+	color:white;
+}
+
+#help {
+	color: cadetblue;
+	text-align: center;
+}
+h1 {
+	color:skyblue;
+}
+h2 {
+	color: white;
+}
+
+.container {
+	margin-bottom: 200px;
+}
+
+.links {
+	color:white;
+	background-color:darkblue;
+}
+
+.wells {
+	margin-bottom: 50px;
+}
+
+#computerpic {
+	width: 100px;
+	float: left;
+	margin-right: 6px
+	margin-bottom: 6px;
+
+}
+
+#fluxpic {
+	width: 100px;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+
+}
+
+#sleeppic {
+	width: 100px;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	text-align: left;
+
+}
+
+
