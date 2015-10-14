@@ -25,7 +25,7 @@
 						and promotions, I am continuing  my education into computer technology.  I enjoy
 						bringing ideas to life. Nonprofit businesses have been my favorites to work on. I
 						collaboration and challenges.  I welcome new ideas and projects</p>
-						<img src="image/thegirl.jpg" alt="girl image"/>
+					<img class="animated infinite bounce" src="image/ball.png" alt=girl>
 
 			<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 			<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>

@@ -2,25 +2,18 @@ body {
 	background-color: black;
 }
 a {
-	color:deepskyblue;
+	color:lightblue;
 }
 p {
 	color:white;
 }
 
-#help {
-	color: cadetblue;
-	text-align: center;
-}
+
 h1 {
 	color:skyblue;
 }
 h2 {
 	color: white;
-}
-
-.container {
-	margin-bottom: 200px;
 }
 
 .links {
@@ -30,6 +23,10 @@ h2 {
 
 .wells {
 	margin-bottom: 50px;
+}
+#help {
+	color:lightgray;
+	text-align: center;
 }
 
 #computerpic {
@@ -56,5 +53,6 @@ h2 {
 	text-align: left;
 
 }
+
 
 

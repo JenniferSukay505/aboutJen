@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Some Helpful Links</title>
+		<title>Favorite Links</title>
 		<meta charset="utf-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link href='https://fonts.googleapis.com/css?family=Hind' rel='stylesheet' type='text/css'>
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
+		<link href='https://fonts.googleapis.com/css?family=Hind:500' rel='stylesheet' type='text/css'>
 		<link type="text/css" href="css/style.css" rel="stylesheet"/>
 		<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css"/>
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -22,8 +24,8 @@
 	<body>
 		<div class="container">
 			<div class="links">
-				<h1>Top 3 Downloads to save sanity on Mac OSX</h1>
-					<p id="help"><em>Help from a sleepy stranger</em></p>
+				<h1>My Favorite Links</h1>
+					<p id="help"><i>Help from a Sleepy Stranger</i></p>
 		</div>
 		<div class="wells">
 				<a href="http://www.hightechdad.com/2014/10/23/13-tips-optimize-mac-yosemite-installation/">
@@ -53,6 +55,7 @@
 							<a href="https://itunes.apple.com/us/app/sleep-pillow/id597419160?mt=12">Sleep Sounds</a></li>
 								<p>Finally- Sleep!</p>
 						</section>
+						<img class="animated infinite shake" src="image/bug.png" alt=bug>
 			</div>
 	</body>
 </html>
